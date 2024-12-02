@@ -59,6 +59,7 @@ public class MainActivity extends AppCompatActivity {
             protected Map<String, String> getParams() throws AuthFailureError {
 
                 return new HashMap<>();
+
             }
         };
 
