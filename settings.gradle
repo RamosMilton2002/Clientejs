@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "ClienteMovil"
 include ':app'
+include ':app'
